@@ -1,3 +1,6 @@
+pip install numpy
+pip install pandas
+pip install ntk
 from os import name
 from urllib.request import urlopen
 import re
