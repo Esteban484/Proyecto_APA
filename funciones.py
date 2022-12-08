@@ -1,5 +1,4 @@
 from os import name
-from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
 import numpy as np
